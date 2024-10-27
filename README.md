@@ -1,13 +1,6 @@
+![Screenshot from 2024-10-27 15-57-22](https://github.com/user-attachments/assets/09ee1cdf-f4c4-4e33-b9bc-a4fd3a452552)
 
 
-
-## Installation
-
-Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
-
-```bash
-  npx thirdweb create app --next
-```
 
 ## Environment Variables
 
